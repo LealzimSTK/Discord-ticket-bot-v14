@@ -1,0 +1,8 @@
+{
+    "Bot_Token": "TOKEN BOT",
+    "Bot_Prefix": "PREFIX FOR COMMANDS",
+    "Mongo_URL": "YOUR MONGO DB URL",
+    "Owner_ID": "YOUR ID",
+    "Guild_ID": "YOUR GUILD ALLOWED FOR COMMANDS",
+    "Logs_Error": "CHANNEL FOR LOGS"
+  }
